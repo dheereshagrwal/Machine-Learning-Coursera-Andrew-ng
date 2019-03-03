@@ -1,0 +1,1 @@
++(lambda/(2*m))*(sum(sum(temp1.^2,1),2)+sum(sum(temp2.^2,1),2))
